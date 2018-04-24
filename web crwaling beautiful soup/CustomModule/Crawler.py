@@ -55,19 +55,3 @@ class Crawler:
         else:
             print("empty list")
         
-#         self.mydataframe={
-            
-#         "alllinks":self.mylist
-            
-#         }
-
-#         self.masud=pd.DataFrame(self.mydataframe)
-#         print(self.masud)
-        
-    
-    
-    
-    
-    
-#object creating
-
